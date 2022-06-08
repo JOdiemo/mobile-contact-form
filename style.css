@@ -286,8 +286,13 @@ button:disabled {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
+  height: 779px;
   font-family: "Poppins", sans-serif;
-  background: url(images/header-shapes\ mobile.png) no-repeat, url(images/Contactme.png) no-repeat;
+  background: url(images/header-shapes\ mobile.png) no-repeat , url(images/Contactme.png) no-repeat;
+}
+
+.mainheader {
+  color: white;
 }
 
 input[type=text] {
@@ -295,7 +300,7 @@ input[type=text] {
   margin: 5px 0 22px 0;
   border: none;
   background: #f1f1f1;
-  border-radius: 15px;
+  border-radius: 8px;
 }
 
 input[type=email] {
@@ -303,16 +308,18 @@ input[type=email] {
   margin: 5px 0 22px 0;
   border: none;
   background: #f1f1f1;
-  border-radius: 15px;
+  border-radius: 8px;
 }
 
 .registerbtn {
-  padding: 16px 20px;
+  padding: 12px, 16px, 12px, 16px;
   border: none;
   cursor: pointer;
-  border-radius: 15px;
+  border-radius: 8px;
   margin-left: 20px;
   margin-right: 20px;
+  margin-bottom: 50px;
+  height: 30px;
 }
 
 #email {
