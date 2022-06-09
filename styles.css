@@ -294,21 +294,13 @@ button:enabled {
 }
 
 .details-2 {
-<<<<<<< HEAD
   font-family: 'Poppins', sans-serif;
-=======
-  font-family: 'Poppins';
->>>>>>> 88290dbb08b0939933f1fb469348fd5511a6e2df
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
   line-height: 28px;
   text-align: center;
-<<<<<<< HEAD
   color: #ebebff;
-=======
-  color: #EBEBFF;
->>>>>>> 88290dbb08b0939933f1fb469348fd5511a6e2df
   align-self: center;
 }
 
@@ -324,20 +316,13 @@ button:enabled {
 
 .mainheader {
   color: white;
-<<<<<<< HEAD
   font-family: 'Poppins', sans-serif;
-=======
-  font-family: 'Poppins';
->>>>>>> 88290dbb08b0939933f1fb469348fd5511a6e2df
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
   line-height: 52px;
   align-items: center;
-<<<<<<< HEAD
   padding-top: 50px;
-=======
->>>>>>> 88290dbb08b0939933f1fb469348fd5511a6e2df
   text-align: center;
 }
 
@@ -397,30 +382,18 @@ input[type=email] {
   background-position: center;
   margin-left: 20px;
   margin-right: 20px;
-<<<<<<< HEAD
   padding: 15px, 0, 15px, 0;
-=======
-  padding: 15px;
->>>>>>> 88290dbb08b0939933f1fb469348fd5511a6e2df
   width: 327px;
   display: block;
   border: none;
   height: 150px;
-  border-radius: 15px;
-<<<<<<< HEAD
+  border-radius: 8px;
   font-family: 'Poppins', sans-serif;
-=======
-  font-family: 'Poppins';
->>>>>>> 88290dbb08b0939933f1fb469348fd5511a6e2df
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
   line-height: 24px;
-<<<<<<< HEAD
   color: #b3bac5;
-=======
-  color: #B3BAC5;
->>>>>>> 88290dbb08b0939933f1fb469348fd5511a6e2df
   margin-bottom: 20px;
 }
 
@@ -440,4 +413,3 @@ input[type=email] {
   outline-style: solid;
   box-shadow: 0 0 0 4px grey;
 }
-
